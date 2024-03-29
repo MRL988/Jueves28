@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    margin-top: 22px;
+}
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+img{
+    width: 700px;
+    height: 600px;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+  .offset-md-2{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-top: 80px;
+    margin-left: 30px;
+  }
+  
+  .col-md-5 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-left: 30px;
+    margin-top: 10px;
+  }
+  
+  .col-sm-5{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  .col-md-6{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+
+  body{
+    background-image: url(https://img.freepik.com/fotos-premium/enfoque-selectivomesa-madera-sobre-fondo-mostrador-cocina-borroso_254791-2716.jpg);
+   }
+  
